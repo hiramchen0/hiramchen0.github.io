@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>心得 on 狗爸的家</title>
+    <link>https://hiramchen0.github.io/categories/%E5%BF%83%E5%BE%97/</link>
+    <description>Recent content in 心得 on 狗爸的家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 29 Dec 2024 22:15:30 +0800</lastBuildDate>
+    <atom:link href="https://hiramchen0.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>狗爸的第一篇文章</title>
+      <link>https://hiramchen0.github.io/blog/dogdad-first-article/</link>
+      <pubDate>Sun, 29 Dec 2024 22:15:30 +0800</pubDate>
+      <guid>https://hiramchen0.github.io/blog/dogdad-first-article/</guid>
+      <description>&lt;p&gt;Hello Word&lt;/p&gt;&#xA;&lt;p&gt;我是狗爸&lt;/p&gt;&#xA;&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;&#xA;&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;&#xA;&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;&#xA;&lt;p&gt;我是&lt;strong&gt;狗爸&lt;/strong&gt;，我喜歡&lt;em&gt;狗狗&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;狗爸&#xA;&lt;ol&gt;&#xA;&lt;li&gt;how&#xA;&lt;ol&gt;&#xA;&lt;li&gt;what&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;hello&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;你好&#xA;&lt;ul&gt;&#xA;&lt;li&gt;what&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Hi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;狗爸&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
