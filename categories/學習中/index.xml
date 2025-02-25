@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>學習中 on 狗爸的家</title>
+    <link>https://hiramchen0.github.io/categories/%E5%AD%B8%E7%BF%92%E4%B8%AD/</link>
+    <description>Recent content in 學習中 on 狗爸的家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 28 Jan 2025 18:48:30 +0800</lastBuildDate>
+    <atom:link href="https://hiramchen0.github.io/categories/%E5%AD%B8%E7%BF%92%E4%B8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>狗爸的第二篇文章</title>
+      <link>https://hiramchen0.github.io/blog/second-article/</link>
+      <pubDate>Tue, 28 Jan 2025 18:48:30 +0800</pubDate>
+      <guid>https://hiramchen0.github.io/blog/second-article/</guid>
+      <description>&lt;h1 id=&#34;新年快樂&#34;&gt;新年快樂&lt;/h1&gt;&#xA;&lt;h3 id=&#34;大家恭喜發財&#34;&gt;大家恭喜發財&lt;/h3&gt;&#xA;&#xA;&#xA;    &#xA;    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/b4SRZurGg1c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&#xA;      &gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>狗爸的第一篇文章</title>
+      <link>https://hiramchen0.github.io/blog/dogdad-first-article/</link>
+      <pubDate>Sun, 29 Dec 2024 22:15:30 +0800</pubDate>
+      <guid>https://hiramchen0.github.io/blog/dogdad-first-article/</guid>
+      <description>&lt;p&gt;Hello Word&lt;/p&gt;&#xA;&lt;p&gt;我是狗爸&lt;/p&gt;&#xA;&lt;h1 id=&#34;一級標題&#34;&gt;一級標題&lt;/h1&gt;&#xA;&lt;h2 id=&#34;二級標題&#34;&gt;二級標題&lt;/h2&gt;&#xA;&lt;h6 id=&#34;六級標題&#34;&gt;六級標題&lt;/h6&gt;&#xA;&lt;p&gt;我是&lt;strong&gt;狗爸&lt;/strong&gt;，我喜歡&lt;em&gt;狗狗&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;狗爸&#xA;&lt;ol&gt;&#xA;&lt;li&gt;how&#xA;&lt;ol&gt;&#xA;&lt;li&gt;what&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;hello&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;你好&#xA;&lt;ul&gt;&#xA;&lt;li&gt;what&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Hi&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;狗爸&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Use Checklists To Improve Your UX</title>
+      <link>https://hiramchen0.github.io/blog/post-13/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://hiramchen0.github.io/blog/post-13/</guid>
+      <description>&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;&#xA;&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h5 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h5&gt;&#xA;&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

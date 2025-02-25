@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 狗爸的家</title>
+    <link>https://hiramchen0.github.io/tags/</link>
+    <description>Recent content in Tags on 狗爸的家</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 28 Jan 2025 18:48:30 +0800</lastBuildDate>
+    <atom:link href="https://hiramchen0.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dog</title>
+      <link>https://hiramchen0.github.io/tags/dog/</link>
+      <pubDate>Tue, 28 Jan 2025 18:48:30 +0800</pubDate>
+      <guid>https://hiramchen0.github.io/tags/dog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Try</title>
+      <link>https://hiramchen0.github.io/tags/try/</link>
+      <pubDate>Tue, 28 Jan 2025 18:48:30 +0800</pubDate>
+      <guid>https://hiramchen0.github.io/tags/try/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://hiramchen0.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://hiramchen0.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://hiramchen0.github.io/tags/html/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://hiramchen0.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://hiramchen0.github.io/tags/new/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://hiramchen0.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>https://hiramchen0.github.io/tags/photos/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://hiramchen0.github.io/tags/photos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://hiramchen0.github.io/tags/python/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <guid>https://hiramchen0.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
